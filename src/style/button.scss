@@ -1,0 +1,13 @@
+.btn {
+    @include base-btn();
+    
+}
+
+
+.btn-save {
+    @include base-btn();
+
+        
+        width: 50px;
+    }
+    

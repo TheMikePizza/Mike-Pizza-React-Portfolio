@@ -1,0 +1,24 @@
+.portfolio-sidebar-list-wrapper{
+    .portfolio-item-thumb {
+        // @include base-grid();
+        grid-gap: 0px;
+        padding:21px;
+    }
+    .portfolio-thumb-img img{
+        width:100%
+    }
+
+    
+    .text-content {
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+        ;
+    }
+    .title{
+        color:$offwhite;
+        font-size:1.5em;
+    }
+}
+
+

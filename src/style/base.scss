@@ -1,0 +1,21 @@
+body {
+margin:0;
+font-family: 'Titillium Web', sans-serif;
+// color:transparent;
+
+
+}
+// img {
+//     width: 200px;
+//     height:auto;
+// }
+
+// .left-side {
+//     background-image: url("~/Users/mikepizza/Desktop/portfolio content/amazon warehouse.png");
+//        }
+
+       .container{
+        display:grid;
+        grid-template-columns: 1fr;
+
+       }

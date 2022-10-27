@@ -1,0 +1,24 @@
+.bio-container-wrapper{
+    display: grid;
+    width:100vw;
+    height:calc(100vh - 68px);
+    grid-template-columns: 1fr 1fr;
+
+
+.bio-text-wrapper{
+    font-size:1.2rem;
+}
+}   
+.left-column{
+
+
+}
+.right-column{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+
+}
+
